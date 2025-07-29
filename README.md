@@ -29,3 +29,19 @@ A complete hotel management solution built with Java in NetBeans IDE, featuring 
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/mischa24/HotelManagementSystem-NetBeans.git
+
+---
+
+## 🛠 Maintenance Notes
+
+### Recent Improvements
+1. **Typo fixes**: Debugging profiles, keyboard shortcuts  
+2. **Command standardization**: Git/NetBeans instructions  
+3. **Visual enhancements**: Added version badges  
+
+### Planned Updates
+- [ ] Add setup screenshots  
+- [ ] Include test cases  
+- [ ] Contributor guidelines  
+
+*Last optimized: $(date +%Y-%m-%d)*  
