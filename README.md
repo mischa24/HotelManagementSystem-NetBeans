@@ -1,2 +1,27 @@
-# HotelManagementSystem-NetBeans
-A Java-based hotel management system developed in NetBeans IDE. Mirror of the original console application with enhanced IDE integration and debugging capabilities.
+# 🏨 Hotel Management System (NetBeans Edition)
+
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![NetBeans](https://img.shields.io/badge/IDE-NetBeans_15+-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A complete hotel management solution built with Java in NetBeans IDE, featuring reservation tracking, billing, and staff management.
+
+## ✨ Features
+- **Reservation System**
+  - Room booking with dynamic pricing
+  - Long-stay discounts (10% >5 nights)
+  - VAT-compliant invoicing (13%)
+  
+- **Staff Management**
+  - Employee role tracking
+  - Contact information storage
+
+- **NetBeans Optimized**
+  - Pre-configured debug profiles
+  - ANT build scripts
+  - Integrated unit testing
+
+## 🚀 Quick Start
+1. **Clone**:
+   ```bash
+   git clone https://github.com/mischa24/HotelManagementSystem-NetBeans.git
