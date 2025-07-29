@@ -1,5 +1,8 @@
 # 🏨 Hotel Management System (NetBeans Edition)
 
+![Java](https://img.shields.io/badge/Java-17+-blue?logo=openjdk)
+![IDE](https://img.shields.io/badge/NetBeans-18+-orange?logo=apachenetbeanside)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![NetBeans](https://img.shields.io/badge/IDE-NetBeans_15+-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
