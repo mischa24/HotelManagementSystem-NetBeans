@@ -44,4 +44,4 @@ git clone https://github.com/mischa24/HotelManagementSystem-NetBeans.git
 - [ ] Include test cases  
 - [ ] Contributor guidelines  
 
-*Last optimized: $(date +%Y-%m-%d)*  
+ 
