@@ -1,3 +1,9 @@
+![Language](https://img.shields.io/badge/language-Java-orange)
+![IDE](https://img.shields.io/badge/built_with-NetBeans-blue)
+![Mode](https://img.shields.io/badge/interface-GUI_and_Console-lightgrey)
+![Feature](https://img.shields.io/badge/Feature-Debugging_Support-important)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Hotel Management System (NetBeans Edition)
 
 ![Java](https://img.shields.io/badge/Java-17+-blue) 
